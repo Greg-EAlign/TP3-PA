@@ -188,7 +188,7 @@ LeMenu(0)
   return (
     <div className="App">
       <header className="App-header">
-        <h2 className='titre'>Vue Sur Mer <input type="checkbox" name="myCheckbox" defaultChecked={false} onChange={()=>setAfficheDroitAdmin(!afficheDroitAdmin)}/>Admin?</h2>
+        <h2 className='titre'>Salut Greg ! <input type="checkbox" name="myCheckbox" defaultChecked={false} onChange={()=>setAfficheDroitAdmin(!afficheDroitAdmin)}/>Admin?</h2>
         
       
         <div className="menu">
